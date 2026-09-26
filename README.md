@@ -142,15 +142,6 @@ The project follows a separate frontend and backend architecture:
 * Expand analytics and progress tracking
 * Improve accessibility and mobile responsiveness
 
-## Credits
-
-This repository is an independently maintained version based on an existing public AI interview project.
-
-Original source repository:
-https://github.com/anuragsingh9518/AIinterview
-
-The original project is credited here because this repository uses its existing codebase as a starting point. Further development, configuration, and modifications should be documented as they are made.
-
 ## License
 
 Please refer to the original project's licensing terms and the licenses of the third-party dependencies used in this project.
@@ -298,15 +289,6 @@ The project follows a separate frontend and backend architecture:
 * Introduce personalized preparation plans
 * Expand analytics and progress tracking
 * Improve accessibility and mobile responsiveness
-
-## Credits
-
-This repository is an independently maintained version based on an existing public AI interview project.
-
-Original source repository:
-https://github.com/anuragsingh9518/AIinterview
-
-The original project is credited here because this repository uses its existing codebase as a starting point. Further development, configuration, and modifications should be documented as they are made.
 
 ## License
 
